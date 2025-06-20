@@ -4,12 +4,12 @@ import MemoryCard from "../components/MemoryCard";
 import ModalLetter from "../components/ModalLetter";
 
 const imagePairs = [
-  { src: "/photos/louie.jpg", label: "Fury" },
-  { src: "/photos/tixa.jpg", label: "Fatty" },
-  { src: "/photos/luna.jpg", label: "Skinny" },
-  { src: "/photos/gang.jpg", label: "The Gang" },
-  { src: "/photos/star.jpg", label: "The Star" },
-  { src: "/photos/love16.jpg", label: "The Couple" },
+  { src: "/my-resume-static/photos/louie.jpg", label: "Fury" },
+  { src: "/my-resume-static/photos/tixa.jpg", label: "Fatty" },
+  { src: "/my-resume-static/photos/luna.jpg", label: "Skinny" },
+  { src: "/my-resume-static/photos/gang.jpg", label: "The Gang" },
+  { src: "/my-resume-static/photos/star.jpg", label: "The Star" },
+  { src: "/my-resume-static/photos/love16.jpg", label: "The Couple" },
 ];
 
 export default function MemoryGameSection() {

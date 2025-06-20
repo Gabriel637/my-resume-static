@@ -35,12 +35,12 @@ export default function SliderSection() {
       >
         <motion.div className="absolute inset-0 z-0">
           <motion.img
-            src="/photos/love20.jpg"
+            src="/my-resume-static/photos/love20.jpg"
             alt="Before"
             className="object-cover w-full h-full"
           />
           <motion.img
-            src="/photos/love19.jpg"
+            src="/my-resume-static/photos/love19.jpg"
             alt="After"
             style={{ clipPath }}
             className="absolute top-0 left-0 w-full h-full object-cover"

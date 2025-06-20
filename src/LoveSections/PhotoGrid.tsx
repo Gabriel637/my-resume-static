@@ -3,12 +3,12 @@ import { useState } from "react";
 import TypingText from "../components/TypingText";
 
 const images = [
-  { img: "/photos/love12.jpg", text: "Em Sapucaí Mirim, divisa de MG e SP a gente se amou e viveu nas alturas, banho de cachoeira, experimentamos vinhos, e com a vista mais linda do meu lado, tive prazer de ver outras paisagens maravilhosas." },
-  { img: "/photos/love2.jpg", text: `A nossa celebração, a partir daqui somos só nós no nosso larzinho.` },
-  { img: "/photos/love3.jpg", text: `"Invadimos" essa igreja para uma sessãozinha de fotos, lindo dia, linda minha princesa.` },
-  { img: "/photos/love18.jpg", text: `Jamais me protegerei do seu sol ou das suas chuvas, te quero por completo, sua felicidade e todo o raio de sol que você traz pra minha vida.` },
-  { img: "/photos/love16.jpg", text: `O melhor dia da minha vida. Simples assim.` },
-  { img: "/photos/love6.jpg", text: `Apesar de não sempre vencer, ter você do meu lado me faz o maior e mais orgulhoso vitorioso.` },
+  { img: "/my-resume-static/photos/love12.jpg", text: "Em Sapucaí Mirim, divisa de MG e SP a gente se amou e viveu nas alturas, banho de cachoeira, experimentamos vinhos, e com a vista mais linda do meu lado, tive prazer de ver outras paisagens maravilhosas." },
+  { img: "/my-resume-static/photos/love2.jpg", text: `A nossa celebração, a partir daqui somos só nós no nosso larzinho.` },
+  { img: "/my-resume-static/photos/love3.jpg", text: `"Invadimos" essa igreja para uma sessãozinha de fotos, lindo dia, linda minha princesa.` },
+  { img: "/my-resume-static/photos/love18.jpg", text: `Jamais me protegerei do seu sol ou das suas chuvas, te quero por completo, sua felicidade e todo o raio de sol que você traz pra minha vida.` },
+  { img: "/my-resume-static/photos/love16.jpg", text: `O melhor dia da minha vida. Simples assim.` },
+  { img: "/my-resume-static/photos/love6.jpg", text: `Apesar de não sempre vencer, ter você do meu lado me faz o maior e mais orgulhoso vitorioso.` },
 ];
 
 export default function PhotoGrid() {
