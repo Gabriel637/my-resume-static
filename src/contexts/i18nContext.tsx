@@ -38,8 +38,6 @@ export const I18nProvider = ({ children }: { children: React.ReactNode }) => {
     setLanguage(language === 'en' ? 'pt' : 'en');
   }, [language, setLanguage]);
 
-  console.log(language)
-
   return (
     <I18nContext.Provider value={{ language, toggleLanguage, setLanguage }}>
       {children}

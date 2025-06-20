@@ -13,7 +13,7 @@ import { AppProviders } from "./providers/AppProviders";
 const App = () => (
   <React.StrictMode>
     <AppProviders>
-      <BrowserRouter>
+      <BrowserRouter basename="/my-resume-static">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/love" element={<LovePage />} />
