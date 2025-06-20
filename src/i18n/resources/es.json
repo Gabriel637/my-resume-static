@@ -1,0 +1,147 @@
+{
+  "header": {
+    "name": "Gabriel Amorim Barbosa",
+    "email": "gabriel.amorim637@gmail.com",
+    "linkedin": "https://linkedin.com/in/gabriel-b-4ba810124/"
+  },
+  "buttonIntro": "Conóceme",
+  "summary": {
+    "presentation": "Hola, soy Gabriel Barbosa",
+    "title": "Resumen",
+    "content": "Diseño y construyo aplicaciones full-stack de alto rendimiento usando React, TypeScript, Node, Go y arquitecturas cloud modernas"
+  },
+  "experience": {
+    "title": "Experiencia Profesional",
+    "subtitle": "Este es mi recorrido hasta ahora",
+    "items": [
+      {
+        "role": "Ingeniero de Software",
+        "company": "DBC Company",
+        "period": "Oct 2022 - Presente",
+        "description": [
+          "Desarrollé microfrontends usando ReactJS y Single-SPA, haciendo el sistema significativamente más ligero, modular y fácil de mantener",
+          "Optimicé el procesamiento de miles de solicitudes de préstamo, aumentando la productividad de los analistas 10 veces al día al reducir el tiempo de análisis de minutos a segundos mediante caché y mejoras de rendimiento",
+          "Mejoré el rendimiento del sitio con técnicas avanzadas como React Suspense, lazy loading y gestión eficiente de estado, garantizando una experiencia de usuario rápida y fluida",
+          "Mentoricé desarrolladores junior mediante revisiones de código, compartiendo conocimientos y brindando orientación técnica para acelerar su crecimiento profesional",
+          "Implementé suites de pruebas completas usando Playwright y Jest, mejorando la confiabilidad de componentes y asegurando entregas de alta calidad"
+        ]
+      },
+      {
+        "role": "Ingeniero de Software",
+        "company": "SanrleiPolini - Engenharia Consultiva",
+        "period": "Dic 2023 - Jun 2024 • 5 meses",
+        "description": [
+          "Diseñé e implementé un innovador sistema de registro EVTL para proyectos de ingeniería civil, agilizando el ingreso de datos y asegurando documentación precisa",
+          "Integré APIs del gobierno de São Paulo para automatizar la validación de direcciones, reduciendo errores manuales y mejorando la eficiencia operativa en un 40%",
+          "Desarrollé una interfaz de mapas interactiva usando Google Maps API, permitiendo visualizar y editar datos de ubicación en tiempo real",
+          "Construí la plataforma con ReactJS, NextJS y Node.js, ofreciendo una experiencia de usuario intuitiva y responsive"
+        ]
+      },
+      {
+        "role": "Ingeniero de Software",
+        "company": "Eyemobile Technologies",
+        "period": "Jun 2020 - Nov 2022 • 2 años 4 meses",
+        "description": [
+          "Desarrollé un portal empresarial con ReactJS para 300+ clientes, permitiendo la gestión eficiente de tiendas y operaciones",
+          "Diseñé microservicios con Node.js que procesaban miles de transacciones diarias, proporcionando datos en tiempo real a portales de clientes y sistemas POS",
+          "Implementé soluciones AWS incluyendo colas SQS, Lambdas y EventBridge para procesamiento de datos escalable y confiable",
+          "Creé una plataforma de blog con ReactJS, Contentful (CMS headless) y GraphQL para gestión de contenido dinámico",
+          "Optimicé el rendimiento mediante análisis basado en métricas de negocio y comportamiento de usuarios"
+        ]
+      },
+      {
+        "role": "Ingeniero de Software",
+        "company": "Zemopay",
+        "period": "Sep 2019 - Jul 2020 • 9 meses",
+        "description": [
+          "Construí un sistema de autoregistro empresarial usando ReactJS, TypeScript y Redux, eliminando procesos manuales",
+          "Implementé almacenamiento seguro de documentos con SQL cumpliendo estándares bancarios (PCI DSS)",
+          "Desarrollé persistencia progresiva de datos con Redux, permitiendo reanudar registros interrumpidos",
+          "Creé un portal bancario de alto rendimiento con ReactJS para gestión de cuentas y configuraciones",
+          "Lideré el desarrollo de la aplicación móvil con React Native, ofreciendo funcionalidad bancaria multiplataforma"
+        ]
+      },
+      {
+        "role": "Pasante de Ingeniería de Software",
+        "company": "GRUPO VISTA",
+        "period": "Ago 2018 - Sep 2019 • 1 año",
+        "description": [
+          "Desarrollé una interfaz de rastreo de camiones en tiempo real con actualización dinámica de ubicación",
+          "Construí sistema de gestión de conductores con análisis de desempeño e informes históricos",
+          "Creé dashboards interactivos para gestión de flota que mejoraron la toma de decisiones operativas",
+          "Mantuve y mejoré la plataforma web usando JavaScript y jQuery",
+          "Optimicé APIs RESTful desarrolladas con PHP y Laravel para el sistema de rastreo"
+        ]
+      }
+    ]
+  },
+  "skillFlowTitle": "Mis habilidades",
+  "skillFlowSubtitle": "Con conocimiento en todas las etapas de desarrollo, estas son algunas herramientas con las que tengo experiencia",
+  "skillFlow": [
+    {
+      "title": "Ingeniería UI",
+      "icon": "💻",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Framer Motion"
+      ],
+      "description": "Construcción de interfaces accesibles, responsive y pixel-perfect"
+    },
+    {
+      "title": "Gestión de Estado",
+      "icon": "🧠",
+      "skills": [
+        "Redux",
+        "Context API",
+        "Zustand",
+        "SWR"
+      ],
+      "description": "Flujo de datos optimizado en aplicaciones complejas"
+    },
+    {
+      "title": "Integración Backend",
+      "icon": "🔌",
+      "skills": [
+        "Node.js",
+        "REST",
+        "GraphQL",
+        "WebSockets"
+      ],
+      "description": "Conexiones API robustas con manejo de errores"
+    },
+    {
+      "title": "Arquitectura Cloud",
+      "icon": "☁️",
+      "skills": [
+        "AWS Lambda",
+        "SQS",
+        "EventBridge",
+        "CloudWatch"
+      ],
+      "description": "Soluciones serverless escalables con patrones event-driven"
+    },
+    {
+      "title": "DevOps & Automatización",
+      "icon": "⚙️",
+      "skills": [
+        "CI/CD",
+        "Docker",
+        "Playwright",
+        "Jest"
+      ],
+      "description": "Infraestructura como código y pipelines de testing"
+    }
+  ],
+  "education": {
+    "title": "Educación",
+    "items": [
+      {
+        "institution": "Universidade Paulista",
+        "degree": "Licenciatura, Ciencias de la Computación",
+        "period": "Dic 2016 - Dic 2019"
+      }
+    ]
+  }
+}

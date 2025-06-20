@@ -1,0 +1,147 @@
+{
+  "header": {
+    "name": "Gabriel Amorim Barbosa",
+    "email": "gabriel.amorim637@gmail.com",
+    "linkedin": "https://linkedin.com/in/gabriel-b-4ba810124/"
+  },
+  "buttonIntro": "Get to know me",
+  "summary": {
+    "presentation": "Hey, I am Gabriel Barbosa",
+    "title": "Summary",
+    "content": "I design and build performant full-stack applications using React, TypeScript, Node, Go, and modern cloud architecture"
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "This is my journey until now",
+    "items": [
+      {
+        "role": "Software Engineer",
+        "company": "DBC Company",
+        "period": "Oct 2022 - Present • 2 yrs 1 mo",
+        "description": [
+          "Developed microfrontends using ReactJS and Single-SPA, making the system significantly lighter, more modular and easier to maintain",
+          "Optimized the processing of thousands of loan proposals, increasing analyst productivity by 10x per day by reducing analysis time from minutes to seconds through caching and performance enhancements",
+          "Improved site performance with advanced optimization techniques including React Suspense, lazy loading, and efficient state management, ensuring a fast and responsive user experience",
+          "Mentored junior developers through knowledge sharing, code reviews, and technical guidance to accelerate their professional growth",
+          "Implemented comprehensive test suites using Playwright and Jest, enhancing component reliability and ensuring high-quality deliverables"
+        ]
+      },
+      {
+        "role": "Software Engineer",
+        "company": "SanrleiPolini - Engenharia Consultiva",
+        "period": "Dec 2023 - Jun 2024 • 5 mos",
+        "description": [
+          "Designed and implemented an innovative EVTL registration system for civil engineering projects, streamlining data entry and ensuring accurate documentation",
+          "Integrated São Paulo government APIs to automate address validation, reducing manual errors and improving operational efficiency by 40%",
+          "Developed an interactive map interface using Google Maps API, enabling users to visualize and edit location data in real-time",
+          "Built the platform with ReactJS, NextJS and Node.js, delivering a responsive and intuitive user experience"
+        ]
+      },
+      {
+        "role": "Software Engineer",
+        "company": "Eyemobile Technologies",
+        "period": "Jun 2020 - Nov 2022 • 2 yrs 4 mos",
+        "description": [
+          "Developed a business portal using ReactJS serving 300+ clients, enabling efficient store management and operations",
+          "Architected Node.js microservices that processed thousands of daily transactions, providing real-time data to both customer portals and POS systems",
+          "Implemented AWS solutions including SQS queues, Lambdas, and EventBridge for reliable and scalable data processing",
+          "Created a blog platform with ReactJS, Contentful (headless CMS), and GraphQL for dynamic content management",
+          "Optimized platform performance through data-driven analysis of business metrics and user behavior"
+        ]
+      },
+      {
+        "role": "Software Engineer",
+        "company": "Zemopay",
+        "period": "Sep 2019 - Jul 2020 • 9 mos",
+        "description": [
+          "Built a self-service business onboarding system using ReactJS, TypeScript and Redux, eliminating manual registration processes",
+          "Implemented secure document storage with SQL that complied with banking security standards (PCI DSS)",
+          "Developed progressive data persistence with Redux, allowing users to resume interrupted registrations",
+          "Created a high-performance banking portal with ReactJS for account management and configurations",
+          "Led development of the company's React Native mobile app, delivering cross-platform banking functionality"
+        ]
+      },
+      {
+        "role": "Software Engineer Intern",
+        "company": "GRUPO VISTA",
+        "period": "Aug 2018 - Sep 2019 • 1 yr",
+        "description": [
+          "Developed a real-time truck tracking interface with dynamic location updates and route visualization",
+          "Built a driver management system with performance analytics and historical data reporting",
+          "Created interactive dashboards for fleet management that improved operational decision-making",
+          "Maintained and enhanced the company web platform using JavaScript and jQuery",
+          "Optimized RESTful APIs built with PHP and Laravel that served the tracking system"
+        ]
+      }
+    ]
+  },
+  "skillFlowTitle": "My skills",
+  "skillFlowSubtitle": "With knowledge through all the stages of development, this is some tools that I am experienced and been using in my career",
+  "skillFlow": [
+    {
+      "title": "UI Engineering",
+      "icon": "💻",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Framer Motion"
+      ],
+      "description": "Building pixel-perfect, accessible and responsive interfaces"
+    },
+    {
+      "title": "State Management",
+      "icon": "🧠",
+      "skills": [
+        "Redux",
+        "Context API",
+        "Zustand",
+        "SWR"
+      ],
+      "description": "Optimized data flow across complex applications"
+    },
+    {
+      "title": "Backend Integration",
+      "icon": "🔌",
+      "skills": [
+        "Node.js",
+        "REST",
+        "GraphQL",
+        "WebSockets"
+      ],
+      "description": "Seamless API connections with robust error handling"
+    },
+    {
+      "title": "Cloud Architecture",
+      "icon": "☁️",
+      "skills": [
+        "AWS Lambda",
+        "SQS",
+        "EventBridge",
+        "CloudWatch"
+      ],
+      "description": "Scalable serverless solutions with event-driven patterns"
+    },
+    {
+      "title": "DevOps & Automation",
+      "icon": "⚙️",
+      "skills": [
+        "CI/CD",
+        "Docker",
+        "Playwright",
+        "Jest"
+      ],
+      "description": "Infrastructure as code and testing pipelines"
+    }
+  ],
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "institution": "Universidade Paulista",
+        "degree": "Degree, Computer Science",
+        "period": "Dec 2016 - Dec 2019"
+      }
+    ]
+  }
+}

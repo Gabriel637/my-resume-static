@@ -1,0 +1,31 @@
+@import "tailwindcss";
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-handwriting: "Dancing Script";
+  --font-gaming: "Press Start 2P";
+}
+
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+}
+html.light body {
+  @apply bg-[#e4d8b4] text-amber-900;
+  color-scheme: light;
+}
+html.dark body {
+  @apply bg-gray-950 text-amber-200;
+  color-scheme: dark;
+}

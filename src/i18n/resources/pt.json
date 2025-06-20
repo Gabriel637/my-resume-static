@@ -1,0 +1,147 @@
+{
+  "header": {
+    "name": "Gabriel Amorim Barbosa",
+    "email": "gabriel.amorim637@gmail.com",
+    "linkedin": "https://linkedin.com/in/gabriel-b-4ba810124/"
+  },
+  "buttonIntro": "Conheça mais sobre mim",
+  "summary": {
+    "presentation": "Olá, eu sou o Gabriel Barbosa",
+    "title": "Resumo",
+    "content": "Crio e desenvolvo aplicações full-stack performáticas usando React, TypeScript, Node, Go e arquitetura moderna em nuvem"
+  },
+  "experience": {
+    "title": "Experiência Profissional",
+    "subtitle": "Essa é a minha trajetória até agora",
+    "items": [
+      {
+        "role": "Engenheiro de Software",
+        "company": "DBC Company",
+        "period": "Out 2022 - Presente",
+        "description": [
+          "Desenvolvi microfrontends com ReactJS e Single-SPA, tornando o sistema significativamente mais leve, modular e fácil de manter",
+          "Otimizei o processamento de milhares de propostas de crédito, aumentando a produtividade dos analistas em 10x por dia ao reduzir o tempo de análise de minutos para segundos com uso de cache e melhorias de performance",
+          "Melhorei a performance do site com técnicas avançadas como React Suspense, lazy loading e gerenciamento eficiente de estado, garantindo uma experiência rápida e responsiva",
+          "Mentorei desenvolvedores juniores com sessões de compartilhamento de conhecimento, revisões de código e orientações técnicas",
+          "Implementei suítes de testes com Playwright e Jest, aumentando a confiabilidade dos componentes e garantindo entregas de alta qualidade"
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
+        "company": "SanrleiPolini - Engenharia Consultiva",
+        "period": "Dez 2023 - Jun 2024 • 5 meses",
+        "description": [
+          "Projetei e implementei um sistema inovador de cadastro EVTL para projetos de engenharia civil, agilizando o registro de dados e garantindo documentação precisa",
+          "Integrei APIs do governo de São Paulo para automatizar validações de endereço, reduzindo erros manuais e aumentando a eficiência operacional em 40%",
+          "Desenvolvi uma interface de mapa interativo com a API do Google Maps, permitindo aos usuários visualizar e editar dados de localização em tempo real",
+          "Construí a plataforma utilizando ReactJS, NextJS e Node.js, oferecendo uma experiência intuitiva e responsiva"
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
+        "company": "Eyemobile Technologies",
+        "period": "Jun 2020 - Nov 2022 • 2 anos 4 meses",
+        "description": [
+          "Desenvolvi um portal empresarial com ReactJS atendendo mais de 300 clientes, permitindo uma gestão eficiente de lojas",
+          "Arquiteturei microserviços em Node.js que processavam milhares de transações diárias, fornecendo dados em tempo real para portais de clientes e sistemas de PDV",
+          "Implementei soluções AWS como filas SQS, Lambdas e EventBridge para processamento de dados confiável e escalável",
+          "Criei uma plataforma de blog com ReactJS, Contentful (CMS headless) e GraphQL para gestão dinâmica de conteúdo",
+          "Otimizei a performance da plataforma por meio de análises baseadas em métricas de negócios e comportamento dos usuários"
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
+        "company": "Zemopay",
+        "period": "Set 2019 - Jul 2020 • 9 meses",
+        "description": [
+          "Construi um sistema de onboarding empresarial self-service com ReactJS, TypeScript e Redux, eliminando processos manuais de cadastro",
+          "Implementei armazenamento seguro de documentos com SQL em conformidade com padrões de segurança bancária (PCI DSS)",
+          "Desenvolvi persistência progressiva de dados com Redux, permitindo retomar cadastros interrompidos",
+          "Criei um portal bancário de alta performance com ReactJS para gestão de contas e configurações",
+          "Liderei o desenvolvimento do aplicativo mobile da empresa com React Native, entregando funcionalidades bancárias multiplataforma"
+        ]
+      },
+      {
+        "role": "Estagiário em Engenharia de Software",
+        "company": "GRUPO VISTA",
+        "period": "Ago 2018 - Set 2019 • 1 ano",
+        "description": [
+          "Desenvolvi uma interface de rastreamento de caminhões em tempo real com atualização dinâmica de localização e visualização de rotas",
+          "Construí um sistema de gerenciamento de motoristas com análises de desempenho e relatórios históricos",
+          "Criei dashboards interativos para gestão de frotas, melhorando a tomada de decisões operacionais",
+          "Mantive e evoluí a plataforma web da empresa com JavaScript e jQuery",
+          "Otimizei APIs RESTful construídas com PHP e Laravel usadas no sistema de rastreamento"
+        ]
+      }
+    ]
+  },
+  "skillFlowTitle": "Minhas habilidades",
+  "skillFlowSubtitle": "Com conhecimento em todas as etapas do desenvolvimento, essas são algumas ferramentas que tenho experiência e venho utilizando na minha carreira",
+  "skillFlow": [
+    {
+      "title": "Engenharia de Interfaces",
+      "icon": "💻",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Framer Motion"
+      ],
+      "description": "Criação de interfaces pixel-perfect, acessíveis e responsivas"
+    },
+    {
+      "title": "Gerenciamento de Estado",
+      "icon": "🧠",
+      "skills": [
+        "Redux",
+        "Context API",
+        "Zustand",
+        "SWR"
+      ],
+      "description": "Fluxo de dados otimizado em aplicações complexas"
+    },
+    {
+      "title": "Integração com Backend",
+      "icon": "🔌",
+      "skills": [
+        "Node.js",
+        "REST",
+        "GraphQL",
+        "WebSockets"
+      ],
+      "description": "Conexão com APIs de forma fluida e com tratamento robusto de erros"
+    },
+    {
+      "title": "Arquitetura em Nuvem",
+      "icon": "☁️",
+      "skills": [
+        "AWS Lambda",
+        "SQS",
+        "EventBridge",
+        "CloudWatch"
+      ],
+      "description": "Soluções serverless escaláveis com padrões orientados a eventos"
+    },
+    {
+      "title": "DevOps & Automação",
+      "icon": "⚙️",
+      "skills": [
+        "CI/CD",
+        "Docker",
+        "Playwright",
+        "Jest"
+      ],
+      "description": "Infraestrutura como código e pipelines de testes automatizados"
+    }
+  ],
+  "education": {
+    "title": "Educação",
+    "items": [
+      {
+        "institution": "Universidade Paulista",
+        "degree": "Bacharelado, Ciência da Computação",
+        "period": "Dez 2016 - Dez 2019"
+      }
+    ]
+  }
+}
