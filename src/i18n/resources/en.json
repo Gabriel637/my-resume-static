@@ -16,8 +16,18 @@
     "items": [
       {
         "role": "Software Engineer",
+        "company": "Prompt.Build",
+        "period": "May 2025 - Present",
+        "description": [
+          "Developed and integrated Google social login with Amazon Cognito for user authentication.",
+          "Implemented an AI agent using WebSockets for real-time blueprint graph layout generation.",
+          "Established Stripe payment processing for secure and efficient subscription management."
+        ]
+      },
+      {
+        "role": "Software Engineer",
         "company": "DBC Company",
-        "period": "Oct 2022 - Present • 2 yrs 1 mo",
+        "period": "Oct 2022 - May 2025 • 2 yrs 7 mos",
         "description": [
           "Developed microfrontends using ReactJS and Single-SPA, making the system significantly lighter, more modular and easier to maintain",
           "Optimized the processing of thousands of loan proposals, increasing analyst productivity by 10x per day by reducing analysis time from minutes to seconds through caching and performance enhancements",
@@ -90,15 +100,15 @@
       "description": "Building pixel-perfect, accessible and responsive interfaces"
     },
     {
-      "title": "State Management",
-      "icon": "🧠",
+      "title": "Web3",
+      "icon": "💻",
       "skills": [
-        "Redux",
-        "Context API",
-        "Zustand",
-        "SWR"
+        "Hardhat",
+        "ether.js",
+        "DeFi",
+        "Solidity"
       ],
-      "description": "Optimized data flow across complex applications"
+      "description": "Developing and deploying smart contracts and decentralized applications"
     },
     {
       "title": "Backend Integration",

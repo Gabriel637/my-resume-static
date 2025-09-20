@@ -16,6 +16,16 @@
     "items": [
       {
         "role": "Engenheiro de Software",
+        "company": "Prompt.Build",
+        "period": "Mai 2025 - Presente",
+        "description": [
+          "Desenvolvi e integrei login social do Google com Amazon Cognito para autenticação de usuários.",
+          "Implementei um agente de IA utilizando WebSockets para geração em tempo real de layout de gráficos de blueprints.",
+          "Estabeleci processamento de pagamentos com Stripe para gestão de assinaturas segura e eficiente."
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
         "company": "DBC Company",
         "period": "Out 2022 - Presente",
         "description": [
@@ -90,15 +100,15 @@
       "description": "Criação de interfaces pixel-perfect, acessíveis e responsivas"
     },
     {
-      "title": "Gerenciamento de Estado",
-      "icon": "🧠",
+      "title": "Web3",
+      "icon": "💻",
       "skills": [
-        "Redux",
-        "Context API",
-        "Zustand",
-        "SWR"
+        "Hardhat",
+        "ether.js",
+        "DeFi",
+        "Solidity"
       ],
-      "description": "Fluxo de dados otimizado em aplicações complexas"
+      "description": "Desenvolvendo e implementando contratos inteligentes e aplicações descentralizadas"
     },
     {
       "title": "Integração com Backend",

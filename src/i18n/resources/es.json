@@ -15,6 +15,16 @@
     "subtitle": "Este es mi recorrido hasta ahora",
     "items": [
       {
+        "role": "Software Engineer",
+        "company": "Prompt.Build",
+        "period": "May 2025 - Presente",
+        "description": [
+          "Desarrollé e integré el inicio de sesión social de Google con Amazon Cognito para la autenticación de usuarios.",
+          "Implementé un agente de IA utilizando WebSockets para la generación en tiempo real de gráficos de diseño.",
+          "Establecí el procesamiento de pagos de Stripe para una gestión de suscripciones segura y eficiente."
+        ]
+      },
+      {
         "role": "Ingeniero de Software",
         "company": "DBC Company",
         "period": "Oct 2022 - Presente",
@@ -90,15 +100,15 @@
       "description": "Construcción de interfaces accesibles, responsive y pixel-perfect"
     },
     {
-      "title": "Gestión de Estado",
-      "icon": "🧠",
+      "title": "Web3",
+      "icon": "💻",
       "skills": [
-        "Redux",
-        "Context API",
-        "Zustand",
-        "SWR"
+        "Hardhat",
+        "ether.js",
+        "DeFi",
+        "Solidity"
       ],
-      "description": "Flujo de datos optimizado en aplicaciones complejas"
+      "description": "Desarrollando e implementando contratos inteligentes y aplicaciones descentralizadas"
     },
     {
       "title": "Integración Backend",
